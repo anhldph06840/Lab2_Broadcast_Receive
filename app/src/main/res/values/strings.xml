@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab2_Broadcast_Receive</string>
+    <string name="Click">Click</string>
+    <string name="btnBai1">Bai1</string>
+    <string name="btnBai2">Bai2</string>
+    <string name="btnBai3" />
+    <string name="btnbai3">Bai3</string>
+    <string name="bai1">Bai1</string>
+    <string name="bai2">Bai2</string>
+    <string name="bai3">Bai3</string>
+</resources>
